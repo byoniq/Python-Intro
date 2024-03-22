@@ -1,0 +1,401 @@
+[
+    {
+        "Country": "Afghanistan",
+        "Capital": "Kabul",
+        "Population": 38041754,
+        "Area_km2": 652230,
+        "GDP_Billion_USD": 19.3
+    },
+    {
+        "Country": "Albania",
+        "Capital": "Tirana",
+        "Population": 2862427,
+        "Area_km2": 28748,
+        "GDP_Billion_USD": 15.3
+    },
+    {
+        "Country": "Algeria",
+        "Capital": "Algiers",
+        "Population": 43053054,
+        "Area_km2": 2381741,
+        "GDP_Billion_USD": 169.9
+    },
+    {
+        "Country": "Andorra",
+        "Capital": "Andorra la Vella",
+        "Population": 77142,
+        "Area_km2": 468,
+        "GDP_Billion_USD": 3.2
+    },
+    {
+        "Country": "Angola",
+        "Capital": "Luanda",
+        "Population": 31825295,
+        "Area_km2": 1246700,
+        "GDP_Billion_USD": 124.2
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Capital": "St. John's",
+        "Population": 97118,
+        "Area_km2": 442,
+        "GDP_Billion_USD": 1.7
+    },
+    {
+        "Country": "Argentina",
+        "Capital": "Buenos Aires",
+        "Population": 44780677,
+        "Area_km2": 2780400,
+        "GDP_Billion_USD": 449.7
+    },
+    {
+        "Country": "Armenia",
+        "Capital": "Yerevan",
+        "Population": 2957731,
+        "Area_km2": 29743,
+        "GDP_Billion_USD": 13.9
+    },
+    {
+        "Country": "Australia",
+        "Capital": "Canberra",
+        "Population": 25203198,
+        "Area_km2": 7741220,
+        "GDP_Billion_USD": 1408.7
+    },
+    {
+        "Country": "Austria",
+        "Capital": "Vienna",
+        "Population": 8955102,
+        "Area_km2": 83871,
+        "GDP_Billion_USD": 455.3
+    },
+    {
+        "Country": "USA",
+        "Population": 331.4,
+        "GDP_per_capita_USD": 62541,
+        "Life_expectancy_years": 78.9,
+        "Happiness_Score": 7.2
+    },
+    {
+        "Country": "China",
+        "Population": 1441.7,
+        "GDP_per_capita_USD": 10518,
+        "Life_expectancy_years": 76.9,
+        "Happiness_Score": 5.4
+    },
+    {
+        "Country": "India",
+        "Population": 1380.0,
+        "GDP_per_capita_USD": 2104,
+        "Life_expectancy_years": 69.7,
+        "Happiness_Score": 4.0
+    },
+    {
+        "Country": "Japan",
+        "Population": 126.5,
+        "GDP_per_capita_USD": 40849,
+        "Life_expectancy_years": 84.6,
+        "Happiness_Score": 6.2
+    },
+    {
+        "Country": "Germany",
+        "Population": 83.2,
+        "GDP_per_capita_USD": 53155,
+        "Life_expectancy_years": 81.2,
+        "Happiness_Score": 6.9
+    },
+    {
+        "Country": "United Kingdom",
+        "Population": 68.0,
+        "GDP_per_capita_USD": 42943,
+        "Life_expectancy_years": 81.4,
+        "Happiness_Score": 7.1
+    },
+    {
+        "Country": "France",
+        "Population": 65.1,
+        "GDP_per_capita_USD": 46881,
+        "Life_expectancy_years": 82.7,
+        "Happiness_Score": 6.5
+    },
+    {
+        "Country": "Brazil",
+        "Population": 212.6,
+        "GDP_per_capita_USD": 8778,
+        "Life_expectancy_years": 75.9,
+        "Happiness_Score": 6.1
+    },
+    {
+        "Country": "Italy",
+        "Population": 60.4,
+        "GDP_per_capita_USD": 40236,
+        "Life_expectancy_years": 83.1,
+        "Happiness_Score": 6.0
+    },
+    {
+        "Country": "Canada",
+        "Population": 37.7,
+        "GDP_per_capita_USD": 48466,
+        "Life_expectancy_years": 82.5,
+        "Happiness_Score": 7.3
+    },
+    {
+        "Country": "South Korea",
+        "Population": 51.3,
+        "GDP_per_capita_USD": 34839,
+        "Life_expectancy_years": 83.5,
+        "Happiness_Score": 5.9
+    },
+    {
+        "Country": "Spain",
+        "Population": 47.3,
+        "GDP_per_capita_USD": 30953,
+        "Life_expectancy_years": 83.4,
+        "Happiness_Score": 6.4
+    },
+    {
+        "Country": "Mexico",
+        "Population": 126.2,
+        "GDP_per_capita_USD": 9710,
+        "Life_expectancy_years": 75.6,
+        "Happiness_Score": 6.5
+    },
+    {
+        "Country": "Indonesia",
+        "Population": 273.5,
+        "GDP_per_capita_USD": 4361,
+        "Life_expectancy_years": 71.7,
+        "Happiness_Score": 5.1
+    },
+    {
+        "Country": "Netherlands",
+        "Population": 17.5,
+        "GDP_per_capita_USD": 60216,
+        "Life_expectancy_years": 82.3,
+        "Happiness_Score": 7.5
+    },
+    {
+        "Country": "Turkey",
+        "Population": 84.3,
+        "GDP_per_capita_USD": 10546,
+        "Life_expectancy_years": 77.7,
+        "Happiness_Score": 5.5
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Population": 34.8,
+        "GDP_per_capita_USD": 23089,
+        "Life_expectancy_years": 75.1,
+        "Happiness_Score": 6.2
+    },
+    {
+        "Country": "Switzerland",
+        "Population": 8.6,
+        "GDP_per_capita_USD": 81993,
+        "Life_expectancy_years": 83.8,
+        "Happiness_Score": 7.6
+    },
+    {
+        "Country": "Azerbaijan",
+        "Capital": "Baku",
+        "Population": 10067108,
+        "Area_km2": 86600,
+        "GDP_Billion_USD": 44.6
+    },
+    {
+        "Country": "Bahrain",
+        "Capital": "Manama",
+        "Population": 1641172,
+        "Area_km2": 765,
+        "GDP_Billion_USD": 38.6
+    },
+    {
+        "Country": "Bangladesh",
+        "Capital": "Dhaka",
+        "Population": 163046161,
+        "Area_km2": 147570,
+        "GDP_Billion_USD": 302.5
+    },
+    {
+        "Country": "Barbados",
+        "Capital": "Bridgetown",
+        "Population": 287025,
+        "Area_km2": 430,
+        "GDP_Billion_USD": 5.1
+    },
+    {
+        "Country": "Belarus",
+        "Capital": "Minsk",
+        "Population": 9466856,
+        "Area_km2": 207600,
+        "GDP_Billion_USD": 59.8
+    },
+    {
+        "Country": "Belize",
+        "Capital": "Belmopan",
+        "Population": 398050,
+        "Area_km2": 22966,
+        "GDP_Billion_USD": 1.9
+    },
+    {
+        "Country": "Benin",
+        "Capital": "Porto-Novo",
+        "Population": 11801151,
+        "Area_km2": 114763,
+        "GDP_Billion_USD": 11.8
+    },
+    {
+        "Country": "Bhutan",
+        "Capital": "Thimphu",
+        "Population": 763092,
+        "Area_km2": 38394,
+        "GDP_Billion_USD": 2.5
+    },
+    {
+        "Country": "Bolivia",
+        "Capital": "Sucre",
+        "Population": 11513100,
+        "Area_km2": 1098581,
+        "GDP_Billion_USD": 40.8
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Capital": "Sarajevo",
+        "Population": 3301000,
+        "Area_km2": 51197,
+        "GDP_Billion_USD": 18.2
+    },
+    {
+        "Country": "Botswana",
+        "Capital": "Gaborone",
+        "Population": 2303697,
+        "Area_km2": 582000,
+        "GDP_Billion_USD": 18.4
+    },
+    {
+        "Country": "Brunei",
+        "Capital": "Bandar Seri Begawan",
+        "Population": 433296,
+        "Area_km2": 5765,
+        "GDP_Billion_USD": 12.9
+    },
+    {
+        "Country": "Bulgaria",
+        "Capital": "Sofia",
+        "Population": 7000039,
+        "Area_km2": 110879,
+        "GDP_Billion_USD": 65.2
+    },
+    {
+        "Country": "Burkina Faso",
+        "Capital": "Ouagadougou",
+        "Population": 20321383,
+        "Area_km2": 274200,
+        "GDP_Billion_USD": 15.3
+    },
+    {
+        "Country": "Burundi",
+        "Capital": "Gitega",
+        "Population": 11530580,
+        "Area_km2": 27834,
+        "GDP_Billion_USD": 3.1
+    },
+    {
+        "Country": "Cabo Verde",
+        "Capital": "Praia",
+        "Population": 549935,
+        "Area_km2": 4033,
+        "GDP_Billion_USD": 1.8
+    },
+    {
+        "Country": "Cambodia",
+        "Capital": "Phnom Penh",
+        "Population": 16486542,
+        "Area_km2": 181035,
+        "GDP_Billion_USD": 24.5
+    },
+    {
+        "Country": "Cameroon",
+        "Capital": "Yaoundé",
+        "Population": 25876380,
+        "Area_km2": 475442,
+        "GDP_Billion_USD": 39.9
+    },
+    {
+        "Country": "Central African Republic",
+        "Capital": "Bangui",
+        "Population": 4745185,
+        "Area_km2": 622984,
+        "GDP_Billion_USD": 2.3
+    },
+    {
+        "Country": "Chad",
+        "Capital": "N'Djamena",
+        "Population": 15946876,
+        "Area_km2": 1284000,
+        "GDP_Billion_USD": 11.7
+    },
+    {
+        "Country": "Comoros",
+        "Capital": "Moroni",
+        "Population": 850886,
+        "Area_km2": 1861,
+        "GDP_Billion_USD": 1.2
+    },
+    {
+        "Country": "Costa Rica",
+        "Capital": "San José",
+        "Population": 5094118,
+        "Area_km2": 51100,
+        "GDP_Billion_USD": 61.9
+    },
+    {
+        "Country": "Croatia",
+        "Capital": "Zagreb",
+        "Population": 4130304,
+        "Area_km2": 56594,
+        "GDP_Billion_USD": 60.8
+    },
+    {
+        "Country": "Cuba",
+        "Capital": "Havana",
+        "Population": 11338138,
+        "Area_km2": 109884,
+        "GDP_Billion_USD": 100.8
+    },
+    {
+        "Country": "Cyprus",
+        "Capital": "Nicosia",
+        "Population": 1189265,
+        "Area_km2": 9251,
+        "GDP_Billion_USD": 29.6
+    },
+    {
+        "Country": "Djibouti",
+        "Capital": "Djibouti City",
+        "Population": 973560,
+        "Area_km2": 23200,
+        "GDP_Billion_USD": 3.4
+    },
+    {
+        "Country": "Dominica",
+        "Capital": "Roseau",
+        "Population": 71986,
+        "Area_km2": 751,
+        "GDP_Billion_USD": 0.5
+    },
+    {
+        "Country": "Dominican Republic",
+        "Capital": "Santo Domingo",
+        "Population": 10738958,
+        "Area_km2": 48671,
+        "GDP_Billion_USD": 88.6
+    },
+    {
+        "Country": "Ecuador",
+        "Capital": "Quito",
+        "Population": 17373657,
+        "Area_km2": 276841,
+        "GDP_Billion_USD": 108.2
+    }
+]
